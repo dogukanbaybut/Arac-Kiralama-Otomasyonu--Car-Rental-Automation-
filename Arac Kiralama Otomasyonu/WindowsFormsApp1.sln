@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35527.113
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Araç Kiralama", "WindowsFormsApp1\Araç Kiralama.csproj", "{FD7FF9CF-6D60-466C-8777-39BCA1160FDB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FD7FF9CF-6D60-466C-8777-39BCA1160FDB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FD7FF9CF-6D60-466C-8777-39BCA1160FDB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FD7FF9CF-6D60-466C-8777-39BCA1160FDB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FD7FF9CF-6D60-466C-8777-39BCA1160FDB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
